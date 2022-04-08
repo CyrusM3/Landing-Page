@@ -1,3 +1,1 @@
-# Hi
-
-# Hell, it's me Ali!
+# Hello, it's me Ali!
